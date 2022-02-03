@@ -1,0 +1,46 @@
+body {
+    background: cornflowerblue;
+}
+
+.headButton {
+    color: rgb(0, 0, 0);
+    background: azure;
+    font-family: monospace;
+    font-size: 30px;
+}
+.headButton {
+    margin: 0;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+.headText {
+    color: azure;
+    font-family: monospace;
+    font-size: 40px;
+}
+.headText {
+    margin: 0;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) 
+}
+
+.walletAddress {
+    color: rgb(211, 255, 255);
+    font-family: monospace;
+    font-size: 25px;
+}
+.walletAddress {
+    margin: 0;
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) 
+}
